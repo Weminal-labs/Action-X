@@ -12,7 +12,7 @@ When using decentralized applications (dApps), users often have to repeat the pr
 
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://github.com/user-attachments/assets/838cc122-fbd3-4504-a0ca-1e9b7318fb95" width="800">
+    <img alt="GitPoint" title="GitPoint" src="https://lh3.googleusercontent.com/7TDlVr_Cjp71T246iv24bzPxd6fjmGCqllDPvFfPEGe2h_x3THRpaAsBeaGKrSv2gk9WJmSpgzm8gahxuui_2k5N4w=s60" width="800">
   </a>
 </p>
 
