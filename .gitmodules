@@ -1,0 +1,9 @@
+[submodule "actionx-extension"]
+	path = actionx-extension
+	url = https://github.com/Weminal-labs/ActionX-Extension
+[submodule "actionx-web"]
+	path = actionx-web
+	url = https://github.com/Weminal-labs/ActionX-Frontend
+[submodule "actionx-services"]
+	path = actionx-services
+	url = https://github.com/Weminal-labs/ActionsX-BE
