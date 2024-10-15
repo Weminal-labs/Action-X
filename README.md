@@ -10,11 +10,9 @@ When using decentralized applications (dApps), users often have to repeat the pr
 
     Repeat to many actions that aren't necessary
 
-<p align="center">
-  <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://lh3.googleusercontent.com/7TDlVr_Cjp71T246iv24bzPxd6fjmGCqllDPvFfPEGe2h_x3THRpaAsBeaGKrSv2gk9WJmSpgzm8gahxuui_2k5N4w=s60" width="800">
-  </a>
-</p>
+
+<a href="https://www.youtube.com/watch?v=_2uPmdfSVmk" target="_blank" rel="noopener noreferrer">Demo Video</a>
+
 
 #### Launch Demo Website🌈: [action-x-website](https://action-x-frontend.vercel.app/)
 #### Launch Demo Extension🌈: [action-x-extension](https://chromewebstore.google.com/detail/actionx/bopjneenkbedcakaheonfocnagfdpoeo)
